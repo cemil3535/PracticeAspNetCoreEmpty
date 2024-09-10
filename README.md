@@ -27,5 +27,5 @@ Default Routing:
 Add a default routing configuration for your homepage.
 
 # technology used
-Asp.Net Core
+Asp.Net Core<br>
 MVC Structure
