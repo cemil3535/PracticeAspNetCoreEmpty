@@ -28,3 +28,4 @@ Add a default routing configuration for your homepage.
 
 # technology used
 Asp.Net Core
+MVC Structure
